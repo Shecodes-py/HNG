@@ -84,3 +84,5 @@ def classify(name: str):
             "processed_at": processed_at
         }
     }
+
+handler = app
